@@ -28,7 +28,7 @@ public class Sample {
 			}
 			
 			if (count == 1) {
-				System.out.println(i +"This is primenumber");
+				System.out.println(i +"This is primenumber values");
 
 			}
 
